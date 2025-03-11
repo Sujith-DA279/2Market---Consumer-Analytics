@@ -61,7 +61,7 @@ The analysis supported key business objectives:
 
 ---
 
-### 📊 Key Insights:
+### 🗝️ Key Insights:
 
 **Customer Demographics**
 - Identified Spain, South Africa, and Canada as top markets by revenue and customer count
@@ -97,10 +97,11 @@ The analysis supported key business objectives:
 > Tracked significant improvements in online purchase-to-web-visits ratio in Q1 2014
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/74c0cd49-805e-46bb-815e-14336a1a2065" alt="Products and Purchasing Patterns Dashboard" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/74c0cd49-805e-46bb-815e-14336a1a2065" alt="Products and Purchasing Patterns Dashboard" width="85%"/>
   <p><em>Dashboard showing product category performance and purchasing behavior across demographic segments</em></p>
 </div>
 
+---
 ### 📊 Recommendations to Business:
 
 Provided data-driven insights to optimize marketing spend across channels based on ROI
