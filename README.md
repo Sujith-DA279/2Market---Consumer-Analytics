@@ -3,13 +3,22 @@
 ### 📋 Project Brief
 I conducted customer purchase behaviour analysis for 2Market, a global retailer, delivering actionable insights across demographics, advertising channels, and product preferences. 
 
-### 🎯 Objectives
+### ✅ Objectives
 The analysis supported key business objectives: 
 - increasing profitability
 - improving market position in different markets
 - enhancing customer experience by targeted marketing strategies</b>&nbsp;&nbsp;&nbsp;
 </div>
 
+### 🎯 Conclusion
+Our analysis of 2Market's customer data revealed significant opportunities to increase revenue and market share through targeted strategies. Spain currently dominates revenue (49%), while child-free customers and social media channels demonstrate exceptional value. 
+
+**Key Recommendations:**
+- Expand beyond Spain to diversify market presence
+- Target high-value child-free segments through Instagram
+- Prioritize social media over traditional marketing (4x more effective)
+- Enhance mid-life customer basket size and in-store experience
+- Diversify beyond liquor and meat product categories
 ---
 
 ### Project Overview:
@@ -104,13 +113,21 @@ The analysis supported key business objectives:
 ---
 ### 📊 Recommendations to Business:
 
-Provided data-driven insights to optimize marketing spend across channels based on ROI
-- Identified key customer segments for targeted marketing campaigns
-- Recommended product mix optimization focusing on high-margin categories
-- Suggested enhancement opportunities through more granular data collection:
-  - Product subcategories
-  - Invoice-level purchase details
-  - Campaign-level marketing data including views, clicks, and customer journey metrics
+Based on the comprehensive data analysis, the following strategic recommendations were presented to enhance 2Market's business performance:
+
+**Business Recommendations**
+- Mitigate risk by expanding customer base outside Spain.
+- Increase basket size for mid-life customers.
+- Focus on high-revenue customer segments, particularly child-free customers.
+- Prioritize Social media marketing, Instagram and Twitter
+- Instagram for child-free high value customers
+- Twitter for mid-life customers with children.
+- Diversify product offerings beyond liquor and meat.
+- Enhance in-store shopping experience for customers with children.
+
+**Technical Recommendations**
+- Conduct further analysis at regional levels to tailor marketing and product strategies more effectively.
+- Gather more granular product, invoicing and marketing data to refine sales and marketing strategies.
 
 ---
 ### The Tableau Dashboard is available here: [2Market Customer Analysis](https://public.tableau.com/views/2Market_Analysis_SujithKumaarKC/MarketingEffectivenessDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
