@@ -120,8 +120,8 @@ Based on the comprehensive data analysis, the following strategic recommendation
 - Increase basket size for mid-life customers.
 - Focus on high-revenue customer segments, particularly child-free customers.
 - Prioritize Social media marketing, Instagram and Twitter
-- Instagram for child-free high value customers
-- Twitter for mid-life customers with children.
+  - Instagram for child-free high value customers
+  - Twitter for mid-life customers with children.
 - Diversify product offerings beyond liquor and meat.
 - Enhance in-store shopping experience for customers with children.
 
