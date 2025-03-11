@@ -11,7 +11,7 @@ The analysis supported key business objectives:
 </div>
 
 ### 🎯 Conclusion
-Our analysis of 2Market's customer data revealed significant opportunities to increase revenue and market share through targeted strategies. Spain currently dominates revenue (49%), while child-free customers and social media channels demonstrate exceptional value. 
+The analysis of 2Market's customer data revealed significant opportunities to increase revenue and market share through targeted strategies. Spain currently dominates revenue (49%), while child-free customers and social media channels demonstrate exceptional value. 
 
 **Key Recommendations:**
 - Expand beyond Spain to diversify market presence
