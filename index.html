@@ -1,80 +1,221 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2Market Consumer Analytics</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-        }
-        header {
-            background: #50b3a2;
-            color: #fff;
-            padding-top: 30px;
-            min-height: 70px;
-            border-bottom: #e8491d 3px solid;
-        }
-        header a {
-            color: #fff;
-            text-decoration: none;
-            text-transform: uppercase;
-            font-size: 16px;
-        }
-        header ul {
-            padding: 0;
-            list-style: none;
-        }
-        header ul li {
-            display: inline;
-            padding: 0 20px 0 20px;
-        }
-        .showcase {
-            min-height: 400px;
-            background: url('https://via.placeholder.com/1200x400') no-repeat 0 -400px;
-            text-align: center;
-            color: #fff;
-        }
-        .showcase h1 {
-            margin-top: 100px;
-            font-size: 55px;
-            margin-bottom: 10px;
-        }
-        .showcase p {
-            font-size: 20px;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2Market Consumer Analytics</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/primer/css@latest/dist/primer.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/primer-markdown/3.2.0/build.css">
 </head>
 <body>
-    <header>
-        <div class="container">
-            <div id="branding">
-                <h1>2Market Consumer Analytics</h1>
-            </div>
-            <nav>
-                <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Dashboard</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+  <div class="container-lg p-responsive mt-6">
+    <article class="markdown-body">
+      <h1>2Market : Consumer-Analytics</h1>
 
-    <section class="showcase">
-        <div class="container">
-            <h1>Customer Behaviour Analysis for 2Market</h1>
-            <p>Delivering actionable insights across demographics, advertising channels, and product preferences.</p>
-        </div>
-    </section>
+      <h3>📋 Project Brief</h3>
+      <p>
+        I conducted customer purchase behaviour analysis for 2Market, a global retailer, delivering actionable insights across demographics, advertising channels, and product preferences.
+      </p>
+
+      <h3>🎯 Objectives</h3>
+      <p>
+        The analysis supported key business objectives:
+      </p>
+      <ul>
+        <li>increasing profitability</li>
+        <li>improving market position in different markets</li>
+        <li>enhancing customer experience by targeted marketing strategies</li>
+      </ul>
+
+      <hr>
+
+      <h3>Project Overview:</h3>
+      <div>
+        <table>
+          <tr align="center">
+            <th align="center">⏱️ Duration</th>
+            <th align="center">🏆 Grade</th>
+            <th align="center">🛠️ Tools</th>
+          </tr>
+          <tr>
+            <td align="center"><b>6 Weeks</b></td>
+            <td align="center"><b>96% (High Distinction)</b></td>
+            <td align="center">
+              <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+              <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+              <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+            </td>
+          </tr>
+        </table>
+      </div>
+
+      <hr>
+
+      <h3>Analytical Approach:</h3>
+      <h4>1. Data Preparation & Cleaning</h4>
+      <table>
+        <tr>
+          <th>Process</th>
+          <th>Highlights</th>
+        </tr>
+        <tr>
+          <td><b>Data Import</b></td>
+          <td>Imported raw marketing data into Excel as structured table</td>
+        </tr>
+        <tr>
+          <td><b>Data Cleaning</b></td>
+          <td>
+            <ul>
+              <li>Converted data types for proper analysis</li>
+              <li>Checked data integrity (duplicates, missing values)</li>
+              <li>Identified and addressed outliers using min/max/average</li>
+              <li>[...]</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td><b>Initial Analysis</b></td>
+          <td>
+            <ul>
+              <li>Created demographic distributions with box plots and line graphs</li>
+              <li>Analyzed relationships between customer features (age, income, marital status, family composition)</li>
+              <li>[...]</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+
+      <h4>2. SQL Analysis</h4>
+      <table>
+        <tr>
+          <th>Process</th>
+          <th>Highlights</th>
+        </tr>
+        <tr>
+          <td><b>Data Loading</b></td>
+          <td>Loaded cleaned Excel data into SQL data-table</td>
+        </tr>
+        <tr>
+          <td><b>Query Development</b></td>
+          <td>Wrote complex SQL queries using Joins, Subqueries, and Case Statements for detailed analysis.</td>
+        </tr>
+        <tr>
+          <td><b>Analysis Focus</b></td>
+          <td>
+            <ul>
+              <li>Identified best-selling products by country</li>
+              <li>Determined most effective advertising methods by country</li>
+              <li>Calculated marketing revenue attribution</li>
+              <li>[...]</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+
+      <h4>3. Tableau Dashboard Development</h4>
+      <table>
+        <tr>
+          <th>Component</th>
+          <th>Highlights</th>
+        </tr>
+        <tr>
+          <td><b>Dashboard Suite</b></td>
+          <td>Developed three interconnected dashboards:<br>• Customer Demographics<br>• Marketing Effectiveness<br>• Product Sales & Purchase Patterns</td>
+        </tr>
+        <tr>
+          <td><b>Technical Elements</b></td>
+          <td>
+            <ul>
+              <li>Created 41 calculated fields for dynamic analysis</li>
+              <li>Implemented data source filters for outliers</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td><b>Visualization Techniques</b></td>
+          <td>
+            <ul>
+              <li>Utilized Dynamic zone visibility for detailed exploration of different marketing channels</li>
+              <li>Treemaps for country-wise Revenue and Customer analysis</li>
+              <li>[...]</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+
+      <hr>
+
+      <h3>🗝️ Key Insights:</h3>
+      <h4>Customer Demographics</h4>
+      <ul>
+        <li>Identified Spain, South Africa, and Canada as top markets by revenue and customer count</li>
+        <li>Discovered <em>Midlife segment (45-54 years)</em> constitutes the largest customer group across countries</li>
+      </ul>
+      <blockquote>
+        <p><b>Value Discovery:</b> Child-free customers demonstrate significantly higher value, generating:</p>
+        <ul>
+          <li>$695,384 in revenue from just 630 customers</li>
+          <li>2-5× higher spending across all product categories</li>
+          <li>Higher average income across all age groups</li>
+        </ul>
+      </blockquote>
+
+      <div align="center">
+        <img src="https://github.com/user-attachments/assets/a44af12e-fb0c-4ba5-aee3-1f61fd918eda" alt="Customer Demographics Dashboard" width="85%">
+        <p><em>Dashboard showing revenue distribution across countries and spending patterns by demographic segments</em></p>
+      </div>
+
+      <h4>Marketing Effectiveness</h4>
+      <ul>
+        <li>Quantified marketing attribution at <b>8% of overall revenue</b> from Q3 2012 to Q2 2014</li>
+      </ul>
+      <blockquote>
+        <p><b>Value Discovery:</b> Determined <em>social media channels</em> (Facebook, Twitter, Instagram) were <b>4x more effective</b> than traditional channels</p>
+        <ul>
+          <li>Highlighted Instagram as the highest-value channel (highest basket value at $126, lowest deal usage at 1.1)</li>
+          <li>Measured recent campaign success rates: Instagram (56%), Facebook (55%), Twitter (38%)</li>
+        </ul>
+      </blockquote>
+
+      <div align="center">
+        <img src="https://github.com/user-attachments/assets/21af8a48-6e92-48e4-9613-759339931a19" alt="Marketing Effectiveness Dashboard" width="85%">
+        <p><em>Dashboard comparing Marketing Channels and their effectiveness across customer demographies and product patterns</em></p>
+      </div>
+
+      <h4>Product & Purchase Analysis</h4>
+      <ul>
+        <li>Identified Liquor and Meat products as dominant sales categories (75% of overall revenue)</li>
+        <li>Discovered <em>child-free customers</em> <b>outspend</b> those with children by <b>2-5x</b> across all categories</li>
+        <li>Recognized global preference for walk-in shopping despite improvements in online ratios</li>
+      </ul>
+      <blockquote>
+        <p>Tracked significant improvements in online purchase-to-web-visits ratio in Q1 2014</p>
+      </blockquote>
+
+      <div align="center">
+        <img src="https://github.com/user-attachments/assets/74c0cd49-805e-46bb-815e-14336a1a2065" alt="Products and Purchasing Patterns Dashboard" width="85%">
+        <p><em>Dashboard showing product category performance and purchasing behavior across demographic segments</em></p>
+      </div>
+
+      <hr>
+
+      <h3>📊 Recommendations to Business:</h3>
+      <ul>
+        <li>Provided data-driven insights to optimize marketing spend across channels based on ROI</li>
+        <li>Identified key customer segments for targeted marketing campaigns</li>
+        <li>Recommended product mix optimization focusing on high-margin categories</li>
+        <li>Suggested enhancement opportunities through more granular data collection:</li>
+        <ul>
+          <li>Product subcategories</li>
+          <li>Invoice-level purchase details</li>
+          <li>Campaign-level marketing data including views, clicks, and customer journey metrics</li>
+        </ul>
+      </ul>
+
+      <hr>
+
+      <h3>The Tableau Dashboard is available here: <a href="https://public.tableau.com/views/2Market_Analysis_SujithKumaarKC/MarketingEffectivenessDashboard?:language=en-US&:sid=&:re[...]">2Market Customer Analysis</a></h3>
+    </article>
+  </div>
 </body>
 </html>
