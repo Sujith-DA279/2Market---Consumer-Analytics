@@ -9,8 +9,9 @@ The analysis supported key business objectives:
 - improving market position in different markets
 - enhancing customer experience by targeted marketing strategies</b>&nbsp;&nbsp;&nbsp;
 </div>
- 
+
 ---
+
 ### Project Overview:
 <div>
   <table>
@@ -59,24 +60,46 @@ The analysis supported key business objectives:
 | **Visualization Techniques** | • Utilized Dynamic zone visibility for detailed exploration of different marketing channels<br>• Treemap for country-wise Revenue and Customer analysis<br>• Interactive KPIs based on filtered segments<br>• Cross-referenced visualizations |
 
 ---
+
 ### 📊 Key Insights:
 
 **Customer Demographics**
 - Identified Spain, South Africa, and Canada as top markets by revenue and customer count
 - Discovered *Midlife segment (45-54 years)* constitutes the largest customer group across countries
-- Revealed _child-free customers_ earn **higher income** than those with children and generate more revenue
-  
+> [!IMPORTANT]
+  > **Value Discovery:** Child-free customers demonstrate significantly higher value, generating:
+  > - $695,384 in revenue from just 630 customers
+  > - 2-5× higher spending across all product categories
+  > - Higher average income across all age groups
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a44af12e-fb0c-4ba5-aee3-1f61fd918eda" alt="Customer Demographics Dashboard" width="85%"/>
+  <p><em>Dashboard showing revenue distribution across countries and spending patterns by demographic segments</em></p>
+</div>
+
 **Marketing Effectiveness**
 - Quantified marketing attribution at **8% of overall revenue** from Q3 2012 to Q2 2014
-- Determined *social media channels* (Facebook, Twitter, Instagram) were **4x more effective** than traditional channels
+> [!IMPORTANT]
+> **Value Discovery:** Determined *social media channels* (Facebook, Twitter, Instagram) were **4x more effective** than traditional channels
 - Highlighted Instagram as the highest-value channel (highest basket value at $126, lowest deal usage at 1.1)
 - Measured recent campaign success rates: Instagram (56%), Facebook (55%), Twitter (38%)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/21af8a48-6e92-48e4-9613-759339931a19" alt="Marketing Effectiveness Dashboard" width="85%"/>
+  <p><em>Dashboard comparing Marketing Channels and their effectiveness across customer demographies and product patterns</em></p>
+</div>  
 
 **Product & Purchase Analysis**
 - Identified Liquor and Meat products as dominant sales categories (75% of overall revenue)
 - Discovered *child-free customers* **outspend** those with children by **2-5x** across all categories
 - Recognized global preference for walk-in shopping despite improvements in online ratios
-- Tracked significant improvements in online purchase-to-web-visits ratio in Q1 2014
+> [!IMPORTANT]
+> Tracked significant improvements in online purchase-to-web-visits ratio in Q1 2014
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/74c0cd49-805e-46bb-815e-14336a1a2065" alt="Products and Purchasing Patterns Dashboard" width="100%"/>
+  <p><em>Dashboard showing product category performance and purchasing behavior across demographic segments</em></p>
+</div>
 
 ### 📊 Recommendations to Business:
 
@@ -89,5 +112,4 @@ Provided data-driven insights to optimize marketing spend across channels based 
   - Campaign-level marketing data including views, clicks, and customer journey metrics
 
 ---
-### Tableau Visualization
-https://public.tableau.com/views/2Market_Analysis_SujithKumaarKC/MarketingEffectivenessDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+### The Tableau Dashboard is available here: [2Market Customer Analysis](https://public.tableau.com/views/2Market_Analysis_SujithKumaarKC/MarketingEffectivenessDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
